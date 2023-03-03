@@ -6,6 +6,7 @@
 
 @import url('https://css.gg/home.css');
 @import url('https://css.gg/copyright.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/software-download.css');
 html,
 body {
     font-size: 16px;
